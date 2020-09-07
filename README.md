@@ -1,5 +1,5 @@
 <p align="left">
-  <a><img title="LEMON" ></a>
+  <a><strong>title="LEMON" ></strong></a>
  </p>
 <p align="center" style="font-weight:bolder;font-size:50px">
 <center><h1 align="center" >Demorepo</h1></center>
