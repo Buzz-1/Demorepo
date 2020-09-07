@@ -1,8 +1,8 @@
 <p align="left">
-  <a><img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg" ></a>
+  <a><img title="LEMON" ></a>
  </p>
 <p align="center" style="font-weight:bolder;font-size:50px">
-<center><h1 align="center" >OMEGA</h1></center>
+<center><h1 align="center" >Demorepo</h1></center>
 </p>
 
 <p align="center">
